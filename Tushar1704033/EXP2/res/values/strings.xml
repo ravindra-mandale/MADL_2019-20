@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exp2</string>
+    <string name="Text_first">First Number</string>
+    <string name="Text_second">Second Number</string>
+    <string name="Button_add">+</string>
+    <string name="Button_minus">-</string>
+    <string name="Button_mult">*</string>
+    <string name="Button_div">/</string>
+</resources>
